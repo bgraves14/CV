@@ -25,7 +25,7 @@ The Internet has been his biggest learning tool so far. As a strong independent 
 
 ## Experience
 
-**Visual System**, A L.E.D-based art collective from Paris doing world class light shows across Europe and Internationally   			----August 2014 - May 2015
+**Visual System**, An L.E.D-based art collective from Paris doing world class light shows across Europe and Internationally   			----August 2014 - May 2015
 
 - Set-up numerous projects from the nuts and bolts to electrical/wiring in numerous French cities.
 
