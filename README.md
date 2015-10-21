@@ -1,9 +1,8 @@
 ## Brandon Graves
 
-He enjoys turning ideas from scratch into fully-fledged products that people love using. 
-Grew up in Bali, Indonesia, lived in LA, and has traveled extensively around the world. He is excited to join a team full of diversity with a work culture where continuous learning is embraced.
+Enjoys turning ideas from scratch into fully-fledged products that people love using. 
+Grew up in Bali, Indonesia, lived in LA, and has traveled extensively around the world. Is excited to join a team full of diversity with a work culture where continuous learning is embraced.
 Certainly, closed rooms full of robot-like people is not his thing.
-Check out his projects below.
 
 
 ### Education
@@ -13,8 +12,7 @@ Check out his projects below.
 - Methodologies: OOP, TDD, SOLID, MVC, DDD
 - Languages: Ruby, Rails, Javascript, Node.js, Angular.js
 - Testing: Rspec, Jasmine, Protractor, Karma, Capybara, Cucumber
-#### The Internet 
-The Internet has been his biggest learning tool so far. As a strong independent learner he knows how to utilise it to its full extent for finding answers and discovering new great technologies .
+
 
 ##PROJECTS
 |Project Name | Description |technologies | 
