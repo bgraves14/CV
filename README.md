@@ -21,7 +21,7 @@ Certainly, closed rooms full of robot-like people is not his thing.
 | [OnTap](https://github.com/bgraves14/onTap_2) | A pub finding app created with Angular created during a two day hack-a-thon. | AngularJs, JavaScript, Karma, Yelp API, HTML5, CSS 
 
 
-## Experience
+## Past Work Experience
 
 **Visual System**, An L.E.D-based art collective from Paris doing world class light shows across Europe and Internationally   			----August 2014 - May 2015
 
